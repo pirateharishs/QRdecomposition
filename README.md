@@ -1,3 +1,6 @@
+## NAME:HARISH S
+## REG NO:212223230071
+
 # Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
@@ -26,6 +29,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ```
 
 
+![image](https://github.com/pirateharishs/QRdecomposition/assets/166011385/4542a0ea-b0d6-488f-b532-8ef216f94742)
 
 
 
@@ -35,6 +39,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Output
 ```
+![image](https://github.com/pirateharishs/QRdecomposition/assets/166011385/ede0a1b5-d0c9-4301-b236-118366b26130)
 
 ```
 
